@@ -1,0 +1,17 @@
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\bin\Debug\net6.0-windows\Gestionnaire de classe.exe
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\bin\Debug\net6.0-windows\Gestionnaire de classe.deps.json
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\bin\Debug\net6.0-windows\Gestionnaire de classe.runtimeconfig.json
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\bin\Debug\net6.0-windows\Gestionnaire de classe.dll
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\bin\Debug\net6.0-windows\Gestionnaire de classe.pdb
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\obj\Debug\net6.0-windows\Gestionnaire de classe.csproj.AssemblyReference.cache
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\obj\Debug\net6.0-windows\Gestionnaire de classe.csproj.ResolveComReference.cache
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\obj\Debug\net6.0-windows\Gestionnaire de classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\obj\Debug\net6.0-windows\Gestionnaire de classe.AssemblyInfoInputs.cache
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\obj\Debug\net6.0-windows\Gestionnaire de classe.AssemblyInfo.cs
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\obj\Debug\net6.0-windows\Gestionnaire de classe.csproj.CoreCompileInputs.cache
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\obj\Debug\net6.0-windows\Gestionnaire de classe.dll
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\obj\Debug\net6.0-windows\refint\Gestionnaire de classe.dll
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\obj\Debug\net6.0-windows\Gestionnaire de classe.pdb
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\obj\Debug\net6.0-windows\Gestionnaire de classe.genruntimeconfig.cache
+C:\Users\neufn\Documents\Gestionnaire-de-classe\Gestionnaire de classe\Gestionnaire de classe\obj\Debug\net6.0-windows\ref\Gestionnaire de classe.dll

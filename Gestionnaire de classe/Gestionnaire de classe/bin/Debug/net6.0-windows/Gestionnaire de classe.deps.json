@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gestionnaire de classe/1.0.0": {
+        "runtime": {
+          "Gestionnaire de classe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gestionnaire de classe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
