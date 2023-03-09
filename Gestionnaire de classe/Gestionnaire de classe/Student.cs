@@ -21,6 +21,13 @@ namespace Gestionnaire_de_classe
             this.surname = surname;
             this.level = level;
         }
+        public Student(string firstName, string surname, string level)
+        {
+            this.id = Manager.getStudentID();
+            this.firstName = firstName;
+            this.surname = surname;
+            this.level = LevelDesc.GetLevelEnum(level);
+        }
 
         public override string ToString()
         {

@@ -6,11 +6,9 @@ namespace premier_test
     {
         static void Main(string[] args)
         {
-            Student student = new("test", "test2", LevelEnum.CP);
-
-            Console.WriteLine(student.ToString());
-
             SpreadSheetImporter importer = new();
+
+            Manager.studentsToString();
         }
     }
 }

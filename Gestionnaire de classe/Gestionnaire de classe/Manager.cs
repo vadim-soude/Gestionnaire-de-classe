@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,7 @@ namespace Gestionnaire_de_classe
     {
         private static int studentID = 0;
 
-        private static Student[] students;
+        public static ArrayList students = new ArrayList();
 
         public static int getStudentID()
         {
@@ -18,5 +19,12 @@ namespace Gestionnaire_de_classe
             return studentID - 1;
         }
         
+        public static void studentsToString()
+        {
+            foreach(var student in students)
+            {
+                Console.WriteLine(student.ToString());
+            }
+        }
     }
 }

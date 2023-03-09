@@ -8,6 +8,7 @@ namespace Gestionnaire_de_classe
 {
     enum LevelEnum
     {
+        NULL = 0,
         PS = 1,
         MS = 2,
         GS = 3,
@@ -17,7 +18,6 @@ namespace Gestionnaire_de_classe
         CM1 = 7,
         CM2 = 8
     }
-
 }
 
    

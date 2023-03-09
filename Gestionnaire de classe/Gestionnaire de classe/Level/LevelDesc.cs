@@ -32,5 +32,30 @@ namespace Gestionnaire_de_classe.Level
                 default: return "";
             }
         }
+
+        public static LevelEnum GetLevelEnum(string level)
+        {
+            switch (level)
+            {
+                case "Petite section":
+                    return LevelEnum.PS;
+                case "Moyenne section":
+                    return LevelEnum.MS;
+                case "Grande section":
+                    return LevelEnum.GS;
+                case "CP | Cours préparatoire":
+                    return LevelEnum.CP;
+                case "CE1 | Cours élémentaire 1":
+                    return LevelEnum.CE1;
+                case "CE2 | Cours élémentaire 2":
+                    return LevelEnum.CE2;
+                case "CM1 | Cours moyen 1":
+                    return LevelEnum.CM1;
+                case "CM2 | Cours moyen 2":
+                    return LevelEnum.CM2;
+
+                default: return LevelEnum.NULL;
+            }
+        }
     }
 }
